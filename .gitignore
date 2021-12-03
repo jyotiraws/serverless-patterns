@@ -136,3 +136,5 @@ package-lock.json
 # CDK
 cdk.out
 dist/*
+/.idea/
+
