@@ -91,3 +91,4 @@ Resources:
       FunctionName: !Ref TextRecognitionLambda
       Principal: events.amazonaws.com
       SourceArn: !GetAtt S3NewImageEvent.Arn
+      
